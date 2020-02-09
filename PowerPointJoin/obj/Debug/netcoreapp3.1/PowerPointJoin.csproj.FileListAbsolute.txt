@@ -1,0 +1,14 @@
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\PowerPointJoin.exe
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\obj\Debug\netcoreapp3.1\PowerPointJoin.csprojAssemblyReference.cache
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\obj\Debug\netcoreapp3.1\PowerPointJoin.AssemblyInfoInputs.cache
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\obj\Debug\netcoreapp3.1\PowerPointJoin.AssemblyInfo.cs
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\PowerPointJoin.deps.json
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\PowerPointJoin.runtimeconfig.json
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\PowerPointJoin.runtimeconfig.dev.json
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\PowerPointJoin.dll
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\PowerPointJoin.pdb
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\obj\Debug\netcoreapp3.1\PowerPointJoin.csproj.CopyComplete
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\obj\Debug\netcoreapp3.1\PowerPointJoin.dll
+C:\Users\Arek\source\repos\PowerPointJoin\PowerPointJoin\obj\Debug\netcoreapp3.1\PowerPointJoin.pdb
